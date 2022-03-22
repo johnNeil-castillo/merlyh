@@ -1,0 +1,64 @@
+{
+  "general": {
+    "shop": {
+      "title": "Merlyh",
+      "description": "Artisinal Goods",
+      "sub_description": "For a life well lived."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "We're a lifestyle shop selling a limited assortment of products handmade in our Silver Lake, United Kingdom studio. We are fueled by the joys we've found in some of life's simplest things, and we apply that joy to each of our creations"
+    },
+    "404": {
+      "title": "Sorry, we can't find that page.",
+      "back": "Back to Merlyh"
+
+    }
+  },
+  "header": {
+    "nav": {
+      "shop":"Shop"
+    }
+  },
+  "cart": {
+    "button": {
+      "count_html": "Cart (<span class=\"js-cart-item-count\">{{ itemCount }}</span>)",
+      "close": "Close"
+    },
+    "empty": {
+      "title": "Your cart is empty",
+      "button": "Keep Shopping"
+    },
+    "filled": {
+      "title": "Your Cart",
+      "subtotal": "Subtotal",
+      "button": "Checkout"
+    }
+  },
+  "footer": {
+    "list": {
+      "products": "Our Products"
+    },
+    "bottom": {
+      "copyright": "©{{ date }}  Merlyh, Inc."
+    },
+    "social": {
+      "facebook_url": "https://www.facebook.com/merlyh",
+      "twitter_handle": "merlyh_",
+      "instagram_handle": "merlyh",
+      "alt": "Merlyh on {{ social }}"
+    }
+  },
+  "product": {
+    "card": {
+      "options": "{{ optionCount }} options",
+      "more_info": "More Info"
+    },
+    "form": {
+      "quantity": "Quantity",
+      "submit": "Add to Cart",
+      "sold_out": "Sold Out"
+    }
+  }
+ 
+}
